@@ -1,0 +1,23 @@
+{
+  "name": "philips-hue",
+  "main": "app.js",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skilbjo/philips-hue.git"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "dependencies": {
+    "underscore": "latest",
+    "node-hue-api": "1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "1.2.1" 
+  },
+  "jshintConfig": {
+    "laxcomma": true
+  }
+}
