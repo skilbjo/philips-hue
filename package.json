@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "underscore": "latest",
-    "node-hue-api": "1.0.5"
+    "node-hue-api": "1.0.5",
+    "hue-cli": "0.0.14"
   },
   "devDependencies": {
     "nodemon": "1.2.1" 
